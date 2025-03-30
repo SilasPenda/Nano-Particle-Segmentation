@@ -1,0 +1,8 @@
+# images_dir: "C:/Users/penda/Documents/Study Materials/Image Processing/PROJECT/PROJECT DATASET/Images"
+# masks_dir: "C:/Users/penda/Documents/Study Materials/Image Processing/PROJECT/PROJECT DATASET/Masks"
+# save_dir: "C:/Users/penda/Documents/Study Materials/Image Processing/PROJECT/Nanoparticle-Segmentation/results"
+
+# Test data
+images_dir: "C:/Users/penda/Documents/Study Materials/Image Processing/PROJECT/PROJECT DATASET/TEST SET/Images"
+masks_dir: "C:/Users/penda/Documents/Study Materials/Image Processing/PROJECT/PROJECT DATASET/TEST SET/Masks"
+save_dir: "C:/Users/penda/Documents/Study Materials/Image Processing/PROJECT/Nanoparticle-Segmentation/results"
